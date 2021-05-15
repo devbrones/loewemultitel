@@ -9,7 +9,9 @@ I made this repository so that owners of the Loewe-based termminals could easier
 ## Repository Structure
 /services/ - information about current running services for the Multitel terminals.  \
 /links/ - links associated with the Multitel terminals.\
-/pdfs/ - PDF:s associated with the Multitel terminals.
+/pdfs/ - PDF:s associated with the Multitel terminals. \
+/files/ - files associated with the Multitel terminals, ie. ROM dumps etc. \
+
 
 ## Add or Change information
 New information is tu be put in a **Issue**, i will add the information into the appropriate categories.
