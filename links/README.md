@@ -8,4 +8,6 @@ Swedish Teleguide Thread (External, Elektronikforumet) - https://elektronikforum
 German BTX museum website (External) - https://btx-museum.de/ \
 Twitter thread with potentially useful information (Twitter) - https://twitter.com/WysWyg_Protogen/status/1323668501383569409 \
 Twitter thread with potentially useful information, German (Twitter) - https://twitter.com/Byt3DE/status/1363258787101032453 \
+Hayes modem emulator project (GitHub) - https://github.com/go4retro/tcpser \
+Telnet Server / Modem Emulator for Windows (GitHub) - https://github.com/tolsen64/InternetModem \
 
